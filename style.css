@@ -1,0 +1,75 @@
+h1{
+    color: navy;
+    text-align: center;
+}
+#banner
+{
+    width:100%;
+    object-fit: cover;
+}
+.location
+{
+    color:gray;
+    margin-bottom: 16px;
+}
+#nav
+{
+    padding:8px;
+    margin:0;
+}
+#logo
+{
+    height:32px;
+    width:10
+}
+.about
+{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+}
+#description
+{
+    width:50%;
+    padding-right:8px;
+}
+#teamimage
+{
+    width:50%;
+}
+a{
+    text-decoration: none;
+}
+
+h2
+{
+    text-align: center;
+}
+#jobs
+{
+    max-width: 800px;
+    margin:0 auto;
+    padding:8px;
+}
+h3{
+    margin: 0;
+}
+.apply
+{
+    float: right;
+}
+#footer
+{
+    background-color:skyblue;
+    padding:8px;
+    text-align: center;
+}
+.footer-link
+{
+ list-style: none;
+}
+.footer-link li{
+    display: inline;
+    margin:0 16px;
+}
